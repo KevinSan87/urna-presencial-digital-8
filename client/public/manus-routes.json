@@ -1,0 +1,7 @@
+{
+  "routes": [
+    { "path": "/", "title": "Votação" },
+    { "path": "/admin", "title": "Painel administrativo" },
+    { "path": "/404", "title": "Página não encontrada" }
+  ]
+}
